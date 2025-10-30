@@ -1,0 +1,32 @@
+! name: Notaview Medical Search
+! description: Rerank results to boost French medical and healthcare authorities
+! public: false
+! author: Notaview
+
+$discard
+$site=has-sante.fr
+$site=ansm.sante.fr
+$site=sciencedirect.com
+$site=orpha.net
+$site=fmcgastro.org
+$site=manuel4.cuen.fr
+$site=em-consulte.com
+$site=prescrire.org
+$site=cmg.fr/productions-du-cmg
+$site=college-vasculaire.com
+$site=ce-mir.fr
+$site=sfendocrino.org
+$site=france.cochrane.org
+$site=hcsp.fr
+$site=cep.splf.fr
+$site=certificats-absurdes.fr
+$site=lecofer.org
+$site=urofrance.org
+$site=cen-neurologie.fr
+$site=sfar.org
+$site=pap-pediatrie.fr
+$site=radeos.org
+$site=vaccination-info-service.fr
+$site=fai2r.org
+$site=sfcardio.fr
+$site=pharmacomedicale.org
