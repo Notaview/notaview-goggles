@@ -4,29 +4,29 @@
 ! author: Notaview
 
 $discard
-$site=has-sante.fr
-$site=ansm.sante.fr
-$site=sciencedirect.com
-$site=orpha.net
-$site=fmcgastro.org
-$site=manuel4.cuen.fr
-$site=em-consulte.com
-$site=prescrire.org
-$site=cmg.fr/productions-du-cmg
-$site=college-vasculaire.com
-$site=ce-mir.fr
-$site=sfendocrino.org
-$site=france.cochrane.org
-$site=hcsp.fr
-$site=cep.splf.fr
-$site=certificats-absurdes.fr
-$site=lecofer.org
-$site=urofrance.org
-$site=cen-neurologie.fr
-$site=sfar.org
-$site=pap-pediatrie.fr
-$site=radeos.org
-$site=vaccination-info-service.fr
-$site=fai2r.org
-$site=sfcardio.fr
-$site=pharmacomedicale.org
+$site=has-sante.fr boost=10
+$site=ansm.sante.fr boost=10
+$site=sciencedirect.com boost=10
+$site=orpha.net boost=10
+$site=fmcgastro.org boost=10
+$site=manuel4.cuen.fr boost=10
+$site=em-consulte.com boost=10
+$site=prescrire.org boost=10
+$site=cmg.fr boost=10
+$site=college-vasculaire.com boost=10
+$site=ce-mir.fr boost=10
+$site=sfendocrino.org boost=10
+$site=france.cochrane.org boost=10
+$site=hcsp.fr boost=10
+$site=cep.splf.fr boost=10
+$site=certificats-absurdes.fr boost=10
+$site=lecofer.org boost=10
+$site=urofrance.org boost=10
+$site=cen-neurologie.fr boost=10
+$site=sfar.org boost=10
+$site=pap-pediatrie.fr boost=10
+$site=radeos.org boost=10
+$site=vaccination-info-service.fr boost=10
+$site=fai2r.org boost=10
+$site=sfcardio.fr boost=10
+$site=pharmacomedicale.org boost=10
